@@ -24,4 +24,4 @@ Repository dedicated to structured practice of Data Structures & Algorithms usin
 
 ## 📌 Daily Progress Log
 Commit messages follow this format:
-may be one day 🤞
+may be one day i achieve  🤞
